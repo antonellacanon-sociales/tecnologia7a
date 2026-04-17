@@ -1,0 +1,90 @@
+<h3>17/04/2026</h4>
+<img class="icono" src="https://cdn-icons-png.flaticon.com/512/2495/2495044.png">
+<style>
+.icono{
+width:108px;
+height:110px;
+display:block;
+margin:left;
+}
+</style>
+<h4>Chismesito free</h4>
+<style>
+h4{
+color:black;
+font-size:60px;
+font-family:Times new roman;
+background-color:white;
+text-align:center;
+}
+</style>
+<style>
+.icono, h4 {
+display:inline-block;
+vertical-align:middle;
+}
+</style>
+<style>
+body{
+background-color:
+#D6C1BC;
+font-family:Arial;
+margin:40px;
+color: black;
+}
+</style>
+<h1>KIMBERLY LOAIZA SE DIVORCIA DE JD PANTOJA POR EL CANTANTE JOP</h1>
+<style>
+h1{
+color:black;
+font-size:60px;
+font-family:Times new roman;
+background-color:white;
+text-align:center;
+}
+</style>
+<p>Kimberly Guadalupe Loaiza Martínez más conocida como Kimberly Loaiza o Kim Loaiza, es una cantante mexicana,que nos acaba de comentar que se divorcio de Juan de dios y se fue con el cantante reconocido como JOP (Jesús Ortiz Paz)Gracias a las criticas del fandom      </p/>
+<style>
+p{
+font-size:20px;
+font-family:Times new roman;
+line-height:1.5;
+text-align:justify;
+background-color:white;L
+color:black;
+}
+</style>
+<img class="img" src="https://imagenes.excelsior.com.mx/files/image_449_252/uploads/2026/04/14/69de9d438be71.jpeg">
+<style>
+.img{
+width:500px;
+height:330px;
+display:block;
+margin:auto;
+}
+</style>
+<p>Kimberly, en 2016, dio inicio a su trayectoria como creadora de contenido de belleza en su canal de YouTube, el cual ha ganado una audiencia de más de cuarenta millones de seguidores. Estaba casada con el cantante y creador de contenido Juan de Dios Pantoja, conocido como JD. Los dos tienen dos hijos llamados Kima y Juanito. En estas semanas, Kimberly y Juan de Dios estuvieron en una polémica por la salud de la madre de Kimberly, ya que tenía un delicado problema. A Kimberly le tiraron hate por no estar con ella en el hospital, por lo que, junto a su exesposo, hicieron un video aclarando que tienen problemas de migración y no podían viajar a México. También dejó en claro que está muy agradecida con los familiares que estaban presentes.
+Aun así, su hermana Stefany Loaiza respondió a ese video haciendo uno en el que criticaba a Juan de Dios Pantoja, porque él afirmó que había pagado el 50% del hospital de la madre de Kimberly. Sin embargo, la hermana de Kimberly demostró que no fue así.
+Muchas personas lo critican por actitudes que consideran irresponsables o poco coherentes, mientras que sus seguidores lo defienden, argumentando que ha cambiado y que también ha sido víctima de exageraciones. La polémica ha causado mucho debate en redes, sobre todo por su relación pasada con Kenia Os, que terminó en conflictos públicos y dividió a sus seguidores.Además, Jesús Ortiz Paz (JOP) también ha estado involucrado con comentarios que aumentaron la controversia. En general, el caso muestra cómo los problemas personales de los influencers se vuelven virales y generan opiniones divididas en internet. JOP ha mostrado un gran interés por Kimberly y, debido a tanto hate, Kimberly por fin decidió divorciarse, por lo que se rumorea que está con JOP y con su madre en México. </p>
+
+<style>
+p{
+font-size:20;
+font-family:Times new roman;
+line-height:1.5;
+text-align:justify;
+background-color:white;
+color:black;
+}
+</style>
+
+<h1>AUTORA:Antonella Cañon</h1>
+<style>
+h1{
+font-size:20;
+font-family:Times new roman;
+line-height:1.5;
+text-align:justify;
+color:black;
+}
+</style>
